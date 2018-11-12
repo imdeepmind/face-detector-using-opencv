@@ -1,4 +1,4 @@
-# Face Detectoe using OpenCV
+# Face Detector using OpenCV
 
 This is a simple program that detects face and eyes. It used OpenCV to do that. 
 
